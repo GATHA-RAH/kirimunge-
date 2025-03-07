@@ -1,5 +1,5 @@
 <h1 align="center"> ★POPKIDS <br></h1>
-<p align="center"> gathara <br><h1>
+<p align="center"> gathara and felix <br><h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL POPKIDS-Md+made+by+gathara+._" alt="Typing SVG" /></a>
 
 
